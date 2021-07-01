@@ -5,5 +5,12 @@ fixes:
   - "/home/runner/work/py_grama/py_grama/::" #Path fixing
 
 ignore:
+<<<<<<< HEAD
   - "test_*.py"
   - "context.py" 
+=======
+  - "/home/runner/work/py_grama/py_grama/tests"
+  - "*/**/tests/**/*"
+  - "test_*.py"
+  - "test_autoplot.py"
+>>>>>>> 19ba49b (Marge with master, adding codecov.yml)
